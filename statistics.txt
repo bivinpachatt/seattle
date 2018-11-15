@@ -1,0 +1,33 @@
+Country	United States
+State	Washington
+County	King
+Incorporated	December 2, 1869
+Named for	Chief Seattle
+Government
+ • Type	Mayor–council
+ • Body	Seattle City Council
+ • Mayor	Jenny Durkan
+ • Deputy mayor	Michael Fong and Shefali Ranganathan
+Area
+ • City	142.5 sq mi (369.2 km2)
+ • Land	83.87 sq mi (217.2 km2)
+ • Water	58.67 sq mi (152.0 km2)
+ • Metro	8,186 sq mi (21,202 km2)
+Highest elevation	520 ft (158 m)
+Lowest elevation	0 ft (0 m)
+Population (2010)[2]
+ • City	608,660
+ • Estimate (2018)[3]	730,400
+ • Rank	US: 18th
+ • Density	8,398/sq mi (3,242/km2)
+ • Urban	3,059,393 (US: 14th)
+ • Metro	3,733,580 (US: 15th)
+ • CSA	4,459,677 (US: 13th)
+Demonym(s)	Seattleite[4] or Seattlite[5]
+Time zone	UTC-8 (PST)
+ • Summer (DST)	UTC-7 (PDT)
+ZIP Codes	
+ZIP codes[6][7][show]
+Area code	206
+FIPS code	53-63000
+GNIS feature ID	1512650[8]
